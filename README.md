@@ -1,1 +1,1 @@
-# kolab
+ColabConnect
